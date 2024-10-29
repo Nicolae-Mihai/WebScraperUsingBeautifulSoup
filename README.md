@@ -1,2 +1,2 @@
 # WebScrapper
- Very basic web scrapper
+ This exercise is a familiarization exercise for the package Beautiful Soup.
